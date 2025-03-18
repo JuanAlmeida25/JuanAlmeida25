@@ -1,6 +1,6 @@
 <p align="center" width="300">
 <!--     <img align="center" width="200" src="" /> -->
-    <h3 align="center">Hola, Mi nombre es Juan Almeida 👋👨🏽‍💻,<br /> Soy desarrollador de Software y Desarrollador Web, con mas de 1 año de experiencia.</h3>
+    <h3 align="center">Hola, Mi nombre es Juan Almeida 👋👨🏽‍💻,<br /> Soy desarrollador de Software y Desarrollador Web.</h3>
 </p>
 
 ```javascript
