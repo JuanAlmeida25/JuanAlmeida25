@@ -12,3 +12,5 @@ Aquí encontraras información relevante acerca de lo que se y lo que hago.
 - **Bases de Datos:** Creación, gestión y optimización (SQL / NoSQL). <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code> <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
 - **Desarrollo Web:** Stack completo (Frontend & Backend).
 - **Infraestructura:** Manejo de Linux y flujos de trabajo en Git/GitHub.<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code> <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAlmeida25&layout=compact&theme=vision-friendly-dark)
